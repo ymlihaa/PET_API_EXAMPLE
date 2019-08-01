@@ -1,2 +1,3 @@
-# PET_API_EXAMPLE
-Rails ile API üzerine denemeler
+# Introduction
+
+PET API is an API application that I built to improve myself at ruby on rails.
